@@ -190,3 +190,5 @@ digitalocean_droplet.droplet (remote-exec):   Checking Host Key: false
 digitalocean_droplet.droplet (remote-exec):   Target Platform: unix
 digitalocean_droplet.droplet (remote-exec): Connected!
 digitalocean_droplet.droplet: Creation complete after 55s [id=341647606]
+
+Finally the instance will be created
